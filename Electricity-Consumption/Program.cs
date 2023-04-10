@@ -18,14 +18,14 @@ for (int i = 0; i < consumptions.Length; i++)
 
     List<TariffComparisonDTO> tariffComparisonLists = new List<TariffComparisonDTO>();
 
-    tariffComparisonLists.Add(new TariffComparisonDTO { TariffName = productA.ToString(), AnnualCosts = productA.AnnualCosts() });
-    tariffComparisonLists.Add(new TariffComparisonDTO { TariffName = productB.ToString(), AnnualCosts = productB.AnnualCosts() });
+    tariffComparisonLists.Add(new TariffComparisonDTO { TariffDetails = productA.ToString(), AnnualCosts = productA.AnnualCosts() });
+    tariffComparisonLists.Add(new TariffComparisonDTO { TariffDetails = productB.ToString(), AnnualCosts = productB.AnnualCosts() });
 
     Console.WriteLine(consumptions[i] + " kWh/year");
 
     foreach (var item in tariffComparisonLists.OrderBy(x => x.AnnualCosts))
     {
-        Console.WriteLine(item.TariffName);
+        Console.WriteLine(item.TariffDetails);
     }
 
     Console.WriteLine();
