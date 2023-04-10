@@ -1,0 +1,15 @@
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\bin\Debug\net6.0\Electricity-Consumption.exe
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\bin\Debug\net6.0\Electricity-Consumption.deps.json
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\bin\Debug\net6.0\Electricity-Consumption.runtimeconfig.json
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\bin\Debug\net6.0\Electricity-Consumption.dll
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\bin\Debug\net6.0\Electricity-Consumption.pdb
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.csproj.AssemblyReference.cache
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.AssemblyInfoInputs.cache
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.AssemblyInfo.cs
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.csproj.CoreCompileInputs.cache
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.dll
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\refint\Electricity-Consumption.dll
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.pdb
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\Electricity-Consumption.genruntimeconfig.cache
+C:\Project\Abhijit\Electricity-Consumption\Electricity-Consumption\obj\Debug\net6.0\ref\Electricity-Consumption.dll
