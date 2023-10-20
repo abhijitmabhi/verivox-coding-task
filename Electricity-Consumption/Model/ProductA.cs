@@ -4,15 +4,17 @@ namespace Electricity_Consumption.Model
 {
     public class ProductA : ProductBase
     {
-        public ProductA(double consumption) {
+        public ProductA(double consumption)
+        {
             BaseCost = 5;
             ConsumptionCostPerUnit = 0.22;
             ProductName = "Basic Electricity Tariff";
             Consumption = consumption;
         }
 
-        public override double AnnualCosts() {
-           
+        public override double AnnualCosts()
+        {
+
             return BaseCost * 12 + Consumption * ConsumptionCostPerUnit;
         }
 

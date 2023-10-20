@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Globalization;
 
 namespace Electricity_Consumption.Model
 {
     public class ProductB : ProductBase
     {
-        public ProductB(double consumption) {
+        public ProductB(double consumption)
+        {
             BaseCost = 800;
             ConsumptionCostPerUnit = 0.30;
             ProductName = "Packaged tariff";
@@ -17,7 +13,7 @@ namespace Electricity_Consumption.Model
         }
         public override double AnnualCosts()
         {
-            if(Consumption <= 4000)
+            if (Consumption <= 4000)
             {
                 return 800;
             }
